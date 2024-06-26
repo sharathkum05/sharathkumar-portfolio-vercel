@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sharathkumar-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/sharathkumar-portfolio/static/js/main.e54b1c65.js",
+    "static/media/IMG_8212.jpg": "/sharathkumar-portfolio/static/media/IMG_8212.edaa301e491ffc9c316a.jpg",
+    "index.html": "/sharathkumar-portfolio/index.html",
+    "main.bf538fe7.css.map": "/sharathkumar-portfolio/static/css/main.bf538fe7.css.map",
+    "main.e54b1c65.js.map": "/sharathkumar-portfolio/static/js/main.e54b1c65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.e54b1c65.js"
+  ]
+}
