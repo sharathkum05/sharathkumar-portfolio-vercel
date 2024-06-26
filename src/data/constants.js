@@ -280,7 +280,7 @@ export const projects = [
       "Next Js",
       "React Js",],
     category: "machine learning",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    webapp: "https://github.com/sharathkum05/OpenAI_Chatbot-Integrated-with-Salesforce-Data",
   },
   {
     id: 9,
