@@ -4,7 +4,7 @@ Welcome to my portfolio repository which is created using ReactJS!
 
 ## 🌐 Live Link
 
-You can view my live portfolio [here](https://sharathkum05.github.io/sharathkumar-portfolio/).
+You can view my live portfolio [here](https://sharathkumar-portfolio.vercel.app/)
 
 ## 📬 Contact
 
